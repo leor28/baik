@@ -98,21 +98,7 @@ nav ul li a:hover {
     background-color: #d32f2f;
 }
 
-footer {
-    color: white;
-    text-align: center;
-    padding: 10px;
-    margin-top: 20px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: transparent; /* إزالة الخلفية */
-}
 
-footer p {
-    margin: 0;
-    color: #5c0000; /* لون النص */
-}
 
 
 
