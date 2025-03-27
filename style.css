@@ -99,15 +99,22 @@ nav ul li a:hover {
 }
 
 footer {
-    background-color: #333;
     color: white;
     text-align: center;
     padding: 10px;
+    margin-top: 20px;
     position: fixed;
-    width: 100%;
     bottom: 0;
-    left: 0;
+    width: 100%;
+    background-color: transparent; /* إزالة الخلفية */
 }
+
+footer p {
+    margin: 0;
+    color: #5c0000; /* لون النص */
+}
+
+
 
 @media (max-width: 768px) {
     .item {
